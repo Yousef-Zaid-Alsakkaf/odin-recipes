@@ -1,3 +1,11 @@
 body {
-    background: linear-gradient(to right, rgb(211, 178, 178), rgb(203, 21, 166));
+  background: linear-gradient(to right, rgb(211, 178, 178), rgb(203, 21, 166));
+}
+body {
+  display: flex;
+}
+.recipe {
+  border: 3px solid burlywood;
+  width: 200px;
+  hi
 }
